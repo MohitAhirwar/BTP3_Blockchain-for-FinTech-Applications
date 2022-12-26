@@ -1,1 +1,1 @@
-# BTP3_Blockchain-for-FinTech-Applications
+# BTP3_Blockchain_for_FinTech_Applications
